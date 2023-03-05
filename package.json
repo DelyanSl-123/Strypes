@@ -1,0 +1,14 @@
+{
+  "name": "delyan-cypress-test",
+  "version": "1.0.0",
+  "description": "Cypress test project",
+  "main": "index.js",
+  "license": "MIT",
+  "private": "true",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^12.2.0"
+  }
+}
